@@ -1,0 +1,22 @@
+{
+    "name": "learnjavascript",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "git@github.com:igorsteixeira94/learnjavascript.git",
+    "author": "Igorsteixeira94 <igorsteixeira94@gmail.com>",
+    "license": "MIT",
+    "description": "Repository for learning to JS",
+    "scripts": {
+        "prettier": "prettier . --write"
+    },
+    "devDependencies": {
+        "husky": "^4.2.5",
+        "prettier": "2.0.5",
+        "pretty-quick": "^2.0.1"
+    },
+    "husky": {
+        "hooks": {
+            "pre-commit": "pretty-quick --staged"
+        }
+    }
+}
