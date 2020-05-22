@@ -6,4 +6,5 @@ A mais comumente utilizada é a ES2015 ou ES6, pois possue suporte na maioria da
 
 ### Manipulação de Arrays :
 
--   forEach: Percorre os elementos do array executando uma ação sobre cada um deles.
+-   [forEach](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrays/forEach.js): Percorre os elementos do array executando uma função callback sobre cada elemento iterado.
+-   [map](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrays/map.js): Percorre os elementos do array executa uma função callback sobre cada elemento e retorna uma nova instancia do array.
