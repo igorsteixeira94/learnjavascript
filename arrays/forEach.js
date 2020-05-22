@@ -1,5 +1,5 @@
 /**
- * O metodo forEach é utilizado para iterar sobre um array,
+ * Função: O metodo forEach é utilizado para iterar sobre um array,
  * substituindo o uso do for
  * Para mais detalhes:https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
  */
