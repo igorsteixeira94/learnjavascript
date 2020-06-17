@@ -1,6 +1,5 @@
 _Repositorio de aprendizado da linguagem EcmaScript2015 e superior._
 
-[TOC]
 
 ### Especificações
 
@@ -31,8 +30,8 @@ _[Para mais conteudo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Re
 
 ### For...of e For...in
 
--   [for...of](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrays/forof.js): Utilizado para percorrer apenas objetos que são iteráveis.
+-   [for...of](https://github.com/igorsteixeira94/learnjavascript/blob/master/iteracoes/forof.js): Utilizado para percorrer apenas objetos que são iteráveis.
 
--   [for...in](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrays/forin.js): Percorre o nome dos atributos do objeto, as propriedades enumeradas. Em um objeto, ele pega o nome de cada atributo, em um array ele retorna o index de cada elemento.
+-   [for...in](https://github.com/igorsteixeira94/learnjavascript/blob/master/iteracoes/forin.js): Percorre o nome dos atributos do objeto, as propriedades enumeradas. Em um objeto, ele pega o nome de cada atributo, em um array ele retorna o index de cada elemento.
 
 **🏗️ Em construção**
