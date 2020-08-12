@@ -38,4 +38,8 @@ _[Para mais conteudo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Re
 -   [map](https://github.com/igorsteixeira94/learnjavascript/blob/master/map/): Estrutura de dados do tipo chave valor. Map e WeakMap
 -   [set](https://github.com/igorsteixeira94/learnjavascript/blob/master/set/): Estrutura de dados do tipo chave valor sem repetição. Ser e WeakSet.
 
+### Variáveis var, let e const.
+-   [variaveis](https://github.com/igorsteixeira94/learnjavascript/blob/master/variaveis/): Algumas características das variáveis existentes no JS.
+
+
 **🏗️ Em construção**
