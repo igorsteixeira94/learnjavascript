@@ -34,4 +34,8 @@ _[Para mais conteudo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Re
 
 -   [for...in](https://github.com/igorsteixeira94/learnjavascript/blob/master/iteracoes/forin.js): Percorre o nome dos atributos do objeto, as propriedades enumeradas. Em um objeto, ele pega o nome de cada atributo, em um array ele retorna o index de cada elemento.
 
+### Algumas estruturas de dados
+-   [map](https://github.com/igorsteixeira94/learnjavascript/blob/master/map/): Estrutura de dados do tipo chave valor. Map e WeakMap
+-   [set](https://github.com/igorsteixeira94/learnjavascript/blob/master/set/): Estrutura de dados do tipo chave valor sem repetição. Ser e WeakSet.
+
 **🏗️ Em construção**
