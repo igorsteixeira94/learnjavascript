@@ -39,15 +39,15 @@ _[Para mais conteudo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Re
 -   [set](https://github.com/igorsteixeira94/learnjavascript/blob/master/set/): Estrutura de dados do tipo chave valor sem repetição. Ser e WeakSet.
 
 ### Variáveis var, let e const.
--   [variaveis](https://github.com/igorsteixeira94/learnjavascript/blob/master/variaveis/): Algumas características das variáveis existentes no JS.
+-   [Variaveis](https://github.com/igorsteixeira94/learnjavascript/blob/master/variaveis/): Algumas características das variáveis existentes no JS.
 
 ### Template String.
--   [template](https://github.com/igorsteixeira94/learnjavascript/blob/master/templatestring/string.js): Template Literals`` e template marcado.
+-   [Template](https://github.com/igorsteixeira94/learnjavascript/blob/master/templatestring/strings.js): Template Literals`` e template marcado.
 
 ### Arrow Functions.
--   [funções](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrowFunctions/funcoes.js): Tipos de chamadas de funções e as Arrow Functions.
+-   [Funções](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrowFunctions/funcoes.js): Tipos de chamadas de funções e as Arrow Functions.
 
 ### Objetos Literals.
--   [funções](https://github.com/igorsteixeira94/learnjavascript/blob/master/objetosliterais/obj.js): Melhorias nos Objetos.
+-   [Objetos](https://github.com/igorsteixeira94/learnjavascript/blob/master/objetosliterais/obj.js): Melhorias nos Objetos.
 
 **🏗️ Em construção**
