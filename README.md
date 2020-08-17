@@ -45,9 +45,12 @@ _[Para mais conteudo](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Re
 -   [Template](https://github.com/igorsteixeira94/learnjavascript/blob/master/templatestring/strings.js): Template Literals`` e template marcado.
 
 ### Arrow Functions.
--   [Funções](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrowFunctions/funcoes.js): Tipos de chamadas de funções e as Arrow Functions.
+-   [Funções](https://github.com/igorsteixeira94/learnjavascript/blob/master/arrowFunctions/funcoes.js): Tipos de chamadas de funções, as Arrow Functions, parametros pré-definidos.
 
 ### Objetos Literals.
--   [Objetos](https://github.com/igorsteixeira94/learnjavascript/blob/master/objetosliterais/obj.js): Melhorias nos Objetos.
+-   [Objetos](https://github.com/igorsteixeira94/learnjavascript/blob/master/objetosliterais/obj.js): Melhorias nos Objetos, desestruturação.
+
+### Rest e Spread.
+-   [Rest - Spread](https://github.com/igorsteixeira94/learnjavascript/blob/master/rest-spread/operadores.js): Exemplos de como funcionam os operadores rest e spread.
 
 **🏗️ Em construção**
