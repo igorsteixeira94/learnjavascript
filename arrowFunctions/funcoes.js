@@ -40,6 +40,8 @@ soma(3,0)
  /**
   * Funções geradoras.
   * São funcções que possuem pontos de parada e que podem ser iteradas.
+  * Utilizam o Symbol iterador
+  * Podem ser usadas com for ... of
   *
   */
 
@@ -52,4 +54,9 @@ const busao = linhaOnibus();
 
 console.log(busao.next());
 
+const busao1 = linhaOnibus();
+
+for (let busaot of busao1){
+  console.log(busaot);
+}
 
