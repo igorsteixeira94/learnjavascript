@@ -7,10 +7,10 @@ Para quem deseja conhecer as funcionalidades mais atuais do JavaScript, [acesse]
 
 A mais comumente utilizada é a ES2015 ou ES6, pois possue suporte na maioria das engines (exemplo: V8 do Chrome). Este [link](https://kangax.github.io/compat-table/es6/) mostra a porcentagem das especificações que são suportadas !
 
-### Começamos pelas tecnologias existentes dentro da ECMASCRIPT 2015 (ES6).
- [x] [es6](https://github.com/igorsteixeira94/learnjavascript/tree/master/es6)
- [ ] [es7](https://github.com/igorsteixeira94/learnjavascript/tree/master/es7)
- [ ] [es8](https://github.com/igorsteixeira94/learnjavascript/tree/master/es8)
- [ ] [es9](https://github.com/igorsteixeira94/learnjavascript/tree/master/es9)
+### Aprendizado !.
+ - [x] [ECMASCRIPT2015](https://github.com/igorsteixeira94/learnjavascript/tree/master/ES6)
+ - [ ] [ECMASCRIPT2016](https://github.com/igorsteixeira94/learnjavascript/tree/master/es7)
+ - [ ] [ECMASCRIPT2017](https://github.com/igorsteixeira94/learnjavascript/tree/master/es8)
+ - [ ] [ECMASCRIPT2018](https://github.com/igorsteixeira94/learnjavascript/tree/master/es9)
 
 **🏗️ Em construção**
