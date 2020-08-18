@@ -2,7 +2,7 @@
  * Arrow function é um modelo de escrever funções anonimas mais enxutas, usando ->
  * Ela acessa o this do seu contexto
  */
-
+/*
  //declaração de função:
  function soma(a,b){
    console.log(a+b);
@@ -26,7 +26,7 @@ soma(3,0)
  * - É possivel passar parametros com valores pré-definidos para funções.
  * - Tbm podemos passar uma função, assim como o callback
  */
-
+/*
  function multiplica(a=0,b=0){
    console.log(a*b);
  }
@@ -36,3 +36,20 @@ soma(3,0)
  }
 
  nome("Igor Rodrigues");
+
+ /**
+  * Funções geradoras.
+  * São funcções que possuem pontos de parada e que podem ser iteradas.
+  *
+  */
+
+function* linhaOnibus(){
+  console.log('Rua 1');
+  yield'Primeira parada';
+}
+
+const busao = linhaOnibus();
+
+console.log(busao.next());
+
+
